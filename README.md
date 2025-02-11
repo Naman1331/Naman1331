@@ -71,12 +71,7 @@
 <a href="https://linkedin.com/in/naman-gandhi-">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
 </a>  
-<a href="https://github.com/Naman1331">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github" alt="GitHub">
-</a>  
-<a href="mailto:ngandh14@asu.edu">
-  <img src="https://img.shields.io/badge/Email-ngandh14@asu.edu-red?logo=gmail" alt="Email">
-</a>  
+ 
 
 ---
 
